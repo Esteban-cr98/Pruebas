@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="email">Destino</string>
+    <string name="subject">Asunto</string>
+    <string name="mensaje">Escriba su mensaje aquí</string>
+    <string name="send">Enviar</string>
+    <string name="img">Imagen</string>
+    <string name="generar">Generar</string>
+</resources>
